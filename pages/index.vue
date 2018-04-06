@@ -24,7 +24,6 @@
 
 <script>
 import AppLogo from '~/components/AppLogo.vue'
-import AppLogo2 from '~/components/AppLogo2.vue'
 
 export default {
   components: {
